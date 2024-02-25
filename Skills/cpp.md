@@ -15,3 +15,7 @@
 
 
 # Third Parties
+## [Eigen](http://eigen.tuxfamily.org/dox/index.html)
+## [OpenCV](https://docs.opencv.org/3.4/index.html)
+### core module
+#### cv::Mat
